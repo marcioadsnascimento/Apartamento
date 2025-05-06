@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Apartamento 33m²para  Alugar</title>
-    <link rel="stycss" href="https://github.com/marcioadsnascimento/Apartamento/blob/main/stylo.css" rel=stylessheet"/>
-    <script src="https://github.com/marcioadsnascimento/Apartamento/blob/main/fotos.index.html" ><script>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
