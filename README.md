@@ -46,6 +46,35 @@
     Contato: (11)97888-3636
     "Entre em contato pelo telefone: (11) 97888-3636";
     <a href="fotos.html">Ver Fotos</a>
-    
+    <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria de Fotos </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Galeria de Fotos 
+        Atenção: Fotos Desatualizadas, apartamento está mobiliado, marque a sua visita ou tira suas dúvidas no contato:11 97888-3636</h1>
+    </header>
+    <section class="gallery">
+        <button onclick="prevImage()">&#10094;</button>
+        <img id="foto" src="foto1.jpg" ; alt="Imagem do apartamento">
+        <img id="foto" src="foto2.jpg" ; alt="Imageem do apartamento" />
+        <img id="foto" src="foto3.jpg" ; alt="Imagem do apartamento" />
+        <img id=" foto" src="foto4,jpg" ; alt="Imagem do apartamento" />
+        <img id="foto" src="foto5.jpg" ; alt="Imagem do apartamento" />
+        <img id="foto" src="foto6.jpg" ; alt="Imagem do apartamento" />
+        <img id="=foto" src="foto7.jpg" ; alt="Imagem do apartamento" />
+        <button onclick="nextImage()">&#10095;</button>
+    </section>
+    <script src="script.js"></script>
+    <a href="Pagina inicial.html">Voltar à Página Inicial</button>
+
+</body>
+</html>
+
 </body>
 </html>
